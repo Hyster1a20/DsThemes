@@ -1,32 +1,21 @@
 <p align="center">
-<img src = "https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/image/header.jpg">
+<img src = "later">
 </p>
 
-<p align="center">
-    <a href="https://discord.gg/FdZhbjY" alt="Get Support">
-        <img src="https://img.shields.io/discord/412794678791110664.svg?label=Support&logo=discord&style=flat-square&logoColor=%23ffffff&colorB=%237289DA" /></a>
-    <a href="https://github.com/puckzxz/NotAnotherAnimeTheme/commits/master" alt="Latest Commit">
-        <img src="https://img.shields.io/github/last-commit/puckzxz/NotAnotherAnimeTheme.svg?logo=GitHub&style=flat-square" /></a>
 </p>
 
-NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest) or [Powercord](https://powercord.dev/)) allowing for a revitalized and fresh take on the Discord UI. Every part of the theme is customizable, from the background image to the scroll bar colors. The user has full control over the default configuration. Preview pictures can be found [here.](https://github.com/puckzxz/NotAnotherAnimeTheme#images-of-variations)
+NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDiscord](later) or [Powercord](https://powercord.dev/)) allowing for a revitalized and fresh take on the Discord UI. Every part of the theme is customizable, from the background image to the scroll bar colors. The user has full control over the default configuration.
 
 ## Installation
 ### For BetterDiscord
 
 1. Ensure [Bandaged BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest) is installed.
 2. Download the theme here:
-      * [NotAnotherAnimeTheme](https://betterdiscord.app/theme/NotAnotherAnimeTheme)
+      * [Basic](later)
 3. Place the theme file inside of the BetterDiscord `themes` folder.
 4. Restart the Discord client either by right clicking the tray icon and clicking "Quit Discord" or by pressing Ctrl+R inside the client.
-5. Go to User Settings in Discord > Themes > Select `NotAnotherAnimeTheme v3.2 by puckzxz#2080`
+5. Go to User Settings in Discord > Themes > Select `Ds Themes v0.1 by H Y S T E R 1 A#4284`
 
-### For Powercord
-1. Ensure Powercord is installed on your computer. If not, install it [here](https://powercord.dev/installation).
-2. Navigate to where the Powercord source files are on your computer
-3. From the Powercord source folder, (Most likely named "powercord") navigate to the themes folder: powercord -> src -> Powercord -> themes.
-4. Within this folder, create a new folder called "NotAnotherAnimeTheme". Download the repository into the folder.
-5. Great! NotAnotherAnimeTheme is now installed on your Discord client! If it's running, restart it for the changes to take place.
 
 ## FAQ
 
@@ -36,11 +25,11 @@ NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDis
 
 ### Q: *I'm still not sure on how to install this*
 
-* Here is a video that goes through the steps for [downloading](https://www.youtube.com/watch?v=1ML5_F-n5iw) and [installing](https://www.youtube.com/watch?v=R-aZTjHWRZc) on BetterDiscord.
+* Here is a video that goes through the steps for [downloading](later) and [installing](later) on BetterDiscord.
 
 ### Q: *How would I go about customizing the theme?*
 
-* The details on how to customize the theme are [here.](https://www.youtube.com/watch?v=YYsdNkLOQjU)
+* The details on how to customize the theme are [here.] (later)
 
 ### Q: *Where did the different theme files go for the amount of server columns?*
 * Since V3 you now change the amount of columns from inside the theme file, `--server-listing-width`
@@ -53,19 +42,15 @@ Have you made something cool with NotAnotherAnimeTheme and feel like sharing it?
 
 A Discord server was made for issues, support, comments, recommendations, etc.
 
-[<img src="https://canary.discordapp.com/api/guilds/412794678791110664/widget.png?style=banner3">](https://discord.gg/FdZhbjY)
+* [server support](https://discord.gg/sHdTFDPHyR)
 
 Any issues can be expressed by:
 
-* [Joining the Discord server](https://discord.gg/FdZhbjY)
-* [Opening an issue on GitHub](https://github.com/puckzxz/NotAnotherAnimeTheme/issues)
-* Messaging me on Discord at puckzxz#2080
+* [Joining the Discord server](https://discord.gg/sHdTFDPHyR)
 
 ## Notes
 
 While the theme is Free and Open Source, it takes time to keep the theme up to date. If you enjoy the theme please consider supporting the Author to continue maintenance and development of it.
-
-* [Donate with PayPal](https://www.paypal.me/ChrisBock)
 
 In the appearance settings make sure **Dark** is selected.
 
@@ -73,24 +58,22 @@ This theme is **NOT** minimal mode compatible.
 
 ## Acknowledgements
 
-* Thanks to [V-X](https://github.com/ImVexed) for creating and hosting the CDN that NotAnotherAnimeTheme uses
-
 * Thanks to [Qu4k3](https://github.com/Qu4k3) for helping with countless issues
 
 ## Images of variations
 
 ### Single Column Server List
 
-![NotAnotherAnimeThemeSCSL](https://i.imgur.com/UxFoW03.jpg)
+![NotAnotherAnimeThemeSCSL]()
 
 ### Double Column Server List
 
-![NotAnotherAnimeTheme](https://i.imgur.com/mw6SCPt.jpg)
+![NotAnotherAnimeTheme]()
 
 ### Triple Column Server List
 
-![NotAnotherAnimeThemeTCSL](https://i.imgur.com/a5sdC2C.jpg)
+![NotAnotherAnimeThemeTCSL]()
 
 ### Quadruple Column Server List
 
-![NotAnotherAnimeThemeQCSL](https://i.imgur.com/EwgpmhY.jpg)
+![NotAnotherAnimeThemeQCSL]()
