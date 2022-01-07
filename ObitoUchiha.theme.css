@@ -1,9 +1,11 @@
 /**
-* @name NotAnotherAnimeTheme
+* @name Ds Themes
 * @author puckzxz#2080
-* @version 3.2
+* @Editor H Y S T E R 1 A#4284
+* @version 0.1
 * @description An easily customizable and automatically updating theme
 * @invite FdZhbjY
+* @invite https://discord.gg/sHdTFDPHyR
 * @source https://github.com/puckzxz/NotAnotherAnimeTheme
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
@@ -21,7 +23,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://cdn.wallpapersafari.com/6/32/b4RyQZ.jpg);
 
   /*
     Main Theme Color
@@ -36,7 +38,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://e7.pngegg.com/pngimages/873/89/png-clipart-kakashi-hatake-sasuke-uchiha-itachi-uchiha-sharingan-uchiha-clan-naruto-computer-cartoon-thumbnail.png);
 
   /*
     Change your friends icon image position
@@ -46,7 +48,7 @@
   /*
     Change your friends icon image zoom
   */
-  --home-icon-image-zoom: 100%;
+  --home-icon-image-zoom: 115%;
 
   /*
     Server Listing Width
@@ -55,12 +57,12 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 72px;
 
   /*
     Font Size
   */
-  --font-size: 100%;
+  --font-size: 110%;
 
   /*
     Mention colors
